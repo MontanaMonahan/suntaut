@@ -1,0 +1,34 @@
+{
+  "devDependencies": {
+    "@binance-chain/bsc-connector": "^1.0.0",
+    "@types/jest": "^24.0.21",
+    "@types/react": "^16.9.11",
+    "@types/react-dom": "^16.9.4",
+    "@web3-react/core": "^6.1.9",
+    "@web3-react/injected-connector": "^6.0.7",
+    "@web3-react/walletconnect-connector": "^6.2.0",
+    "ethers": "^5.4.1",
+    "lerna": "^3.19.0",
+    "react": ">=16.8",
+    "react-dom": ">=16.8",
+    "rimraf": "^3.0.1",
+    "tsdx": "^0.11.0"
+  },
+  "license": "GPL-3.0-or-later",
+  "prettier": {
+    "semi": false,
+    "singleQuote": true,
+    "printWidth": 120
+  },
+  "name": "suntaut",
+  "author": "MicaelaBlock",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MontanaMonahan/suntaut.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MontanaMonahan/suntaut.git/issues"
+  },
+  "homepage": "https://github.com/MontanaMonahan/suntaut.git",
+  "version": "1.0.0"
+}
